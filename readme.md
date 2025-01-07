@@ -29,7 +29,7 @@
 <div align="center">
   <h2>🔧 Skills & Tools</h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,git,github,vscode&perline=6" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=python,jupyter,powerbi,html,css,js,php,photoshop,autocad,sketchup,3dsmax,vray,indesign&perline=6" alt="Skills"/>
   </p>
 </div>
 
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>📬 Connect with Me</h2>
   <p>
-    <a href="https://www.linkedin.com/in/chaithanya-ks" target="_blank">
+    <a href="https://www.linkedin.com/in/chaithanyaks2/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/chaithanya-ks2" target="_blank">
