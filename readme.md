@@ -29,7 +29,7 @@
 <div align="center">
   <h2>🔧 Skills & Tools</h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,jupyter,powerbi,html,css,js,php,photoshop,autocad,sketchup,3dsmax,vray,indesign&perline=6" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=c,python,jupyter,powerbi,html,css,js,php,sql,photoshop,autocad,sketchup,3dsmax,vray,indesign&perline=6" alt="Skills"/>
   </p>
 </div>
 
